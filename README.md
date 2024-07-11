@@ -1,4 +1,4 @@
-# NodePay V2 BOT
+# BLUM SOFT
 It's For Hunters😈👿
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=NodePay+V2+B0T+)](https://git.io/typing-svg)
@@ -17,6 +17,6 @@ Telegram: [Cipher_Airdrop](https://t.me/+tFmYJSANTD81MzE1)
 Cipher_Airdrop aims to assist individuals without coding or Linux expertise. Follow the guide below for a one-click setup of your NodePay B0T.👏😒
 
 <h2>✨Guide Link✨</h2>
-<p>🔷Open link: </p><br>
+<p>🔷Open link: https://medium.com/@cipher_airdrop/nodepay-v2-b0t-59b73a2cf2ec </p><br>
 
 <h3>That's it for now!!!👿</h3>
