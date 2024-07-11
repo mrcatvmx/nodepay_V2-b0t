@@ -1,7 +1,7 @@
 # NodePay V2 BOT
 It's For Hunters😈👿
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Node+Pay+B0T+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=NodePay+V2+B0T+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=By+Cipher_Airdrop)](https://git.io/typing-svg)
 
 <h1>Social Links</h1>
