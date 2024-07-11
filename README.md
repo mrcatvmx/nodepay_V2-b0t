@@ -1,4 +1,4 @@
-# BLUM SOFT
+# Nodepay V2 B0T
 It's For Hunters😈👿
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=NodePay+V2+B0T+)](https://git.io/typing-svg)
